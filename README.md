@@ -1,1 +1,1 @@
-# Pizza-Runner
+SQL Case Study Project: Pizza Sales
